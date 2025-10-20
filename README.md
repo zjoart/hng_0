@@ -95,5 +95,5 @@ make help
 
 - If you see an SDK version mismatch, install a Dart 3.x SDK or switch SDK versions (e.g., with asdf).
 - If the external catfact service is slow or down, `repo/fact.dart` times out after 5 seconds and returns an error message.
-- If you get CORS issues in a browser, note `routes/me.dart` sets `Access-Control-Allow-Origin: *` in responses.
+
 
